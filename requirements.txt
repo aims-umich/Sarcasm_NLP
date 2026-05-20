@@ -1,0 +1,14 @@
+pandas
+matplotlib
+numpy
+bitsandbytes
+torch
+transformers
+datasets
+peft
+trl
+huggingface_hub
+seaborn
+scikit-learn
+tensorflow
+tf-keras
