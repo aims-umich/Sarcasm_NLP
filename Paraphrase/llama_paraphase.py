@@ -32,7 +32,7 @@ from sklearn.metrics import (accuracy_score,
 from sklearn.model_selection import train_test_split
 from huggingface_hub import login
 
-login(token='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') #c
+login(token='') #c
 
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0,1,2,3"
